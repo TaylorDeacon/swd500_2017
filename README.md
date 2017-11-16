@@ -17,10 +17,16 @@ By the end of this week you should:
 
 - Understand the basic concepts of JavaScript 
 - Be able to manipulate HTML using JavaScript
+- Understand the process involved for assignment 2 
 
 **Session 1**
 
 [JavaScript Refresher](sessions/session8.1/README.md)
+
+
+**Session 2** 
+
+**In class assignment 2 introduction**
 
 
 
