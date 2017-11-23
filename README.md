@@ -11,6 +11,20 @@ Assignment 1 can be found in the assessments section of the [COURSE SOL PAGE](ht
 [In order to ensure a full understanding, students will take part in an assignment introductory activity. This will be run in-class](assignment_introduction.md).
 
 
+## Week 9 Package Manages and Javascript Frameworks
+
+By the end of this week you should:
+
+- Be able to use the NPM package manager 
+- Understand and use a JavaScript framework 
+
+**Session 1 and Session 2**
+
+[Package Manages and Javascript Frameworks] (sessions/session9.0/README.md)
+
+
+
+
 ## Week 8 JavaScript Refresher 
 
 By the end of this week you should:
