@@ -10,6 +10,17 @@ Assignment 1 can be found in the assessments section of the [COURSE SOL PAGE](ht
 
 [In order to ensure a full understanding, students will take part in an assignment introductory activity. This will be run in-class](assignment_introduction.md).
 
+## Week 11 - Introducing Webpack
+
+- [Introducing a webpack build process](https://github.com/joeappleton18/Simple-Vue-Webpack-and-SASS/blob/master/README.md)
+
+
+
+
+## Week 10 
+
+Assignment support and feedback for assessment 1
+
 
 ## Week 9 Package Manages and Javascript Frameworks
 
